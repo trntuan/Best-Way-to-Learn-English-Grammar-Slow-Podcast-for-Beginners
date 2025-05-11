@@ -1,0 +1,11 @@
+hãy giúp tôi cập nhật lại nội dung thêm 2000 từ nữa với các yêu cầu:
+văn sau thành định dạng SSML (Speech Synthesis Markup Language) với các quy tắc sau:
+Mỗi câu hoặc cụm ý nên được đặt trong một cặp thẻ <s>
+Không sử dụng dấu chấm câu ở cuối câu (trừ khi là dấu hỏi hoặc dấu cảm thán cần thiết cho ngữ điệu)
+Không sử dụng thẻ <break time=...>Nếu cần ngắt dòng hoặc tạo nhịp tự nhiên, hãy thêm nhiều thẻ <s> thay vì dùng break
+Có thể dùng thẻ <emphasis> ở những chỗ cần nhấn mạnhBao toàn bộ nội dung trong <speak> và chia đoạn rõ ràng bằng thẻ <p>nội dung sau sao cho phù hợp với người học tiếng Anh trình độ A1–A2.
+Yêu cầu:Dùng từ vựng đơn giản, phổ biến, dễ phát âm.Mỗi câu nên ngắn gọn, rõ ràng, tối đa 10–12 từ.Giữ lại cảm xúc thật, không phóng đại, không dùng sáo ngữ.
+Có thể thay đổi câu chuyện để làm cho nội dung gần gũi và dễ hiểu hơn.Văn phong nên tự nhiên, giống như đang kể chuyện trực tiếp với người học.
+Nếu có thể, dùng các ví dụ gần với cuộc sống hàng ngày.
+Giữ nhịp điệu nhẹ nhàng, tạo cảm giác khích lệ và thân thiện.
+
