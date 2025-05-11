@@ -1,0 +1,19 @@
+📌 Prompt mẫu:
+
+Hãy chuyển đoạn văn sau thành định dạng SSML (Speech Synthesis Markup Language) với các quy tắc sau:
+
+Mỗi câu hoặc cụm ý nên được đặt trong một cặp thẻ <s>
+
+Không sử dụng dấu chấm câu ở cuối câu (trừ khi là dấu hỏi hoặc dấu cảm thán cần thiết cho ngữ điệu)
+
+Không sử dụng thẻ <break time=...>
+
+Nếu cần ngắt dòng hoặc tạo nhịp tự nhiên, hãy thêm nhiều thẻ <s> thay vì dùng break
+
+Có thể dùng thẻ <emphasis> ở những chỗ cần nhấn mạnh
+
+Bao toàn bộ nội dung trong <speak> và chia đoạn rõ ràng bằng thẻ <p>
+
+Đây là văn bản cần chuyển đổi:
+
+[Dán văn bản tại đây]
